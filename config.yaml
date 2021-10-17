@@ -1,20 +1,20 @@
 baseURL: https://nohad-mortada.netlify.app/
 languageCode: en-us
-title: Nohad Mortada
+title: Nohad Mortada's Portfolio Website
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |-
+    subtitle: |-\#
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Nohad Mortada
+    title: Hello, my name is Nohad Mortada. I am Lebanese, and am currently an MFA student at London Business School.
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
+      - city: London, W8 4QN 
         country: UK
         street: Kensington Palace Gardens
         title: Address
@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (44) 7852870771 
         title: Phone
   custom_css: []
   custom_js: []
@@ -47,16 +47,16 @@ params:
       #  url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/nohad.mortada
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/nohadmortada/?hl=en
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/nohadmortada
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: www.linkedin.com/in/nohadmortada
   image: ''
   name: Your name
   navigation:
@@ -83,7 +83,7 @@ params:
     showcase:
       - image: pic01.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        title: Nfokho
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
