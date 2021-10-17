@@ -67,7 +67,7 @@ params:
       - name: Log In
         url: '#'
     links:
-      - name: Home
+      - name: \# 
         url: '#'
       - name: Blogs
         url: blogs
