@@ -64,8 +64,8 @@ params:
       - name: Get Started
         url: blogs
     button2:
-      - name: Log In
-        url: '#'
+      - name: Nohad's Resume
+        url: 'file:///Users/nohadmessimortada/Desktop/IB%20Applications/CV%20NOHAD%20MORTADA.pdf'
     links:
       - name: menu
         url: '#'
@@ -84,7 +84,7 @@ params:
       - image: lbs.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Individual Assignment
-        url: blogs/https://stackoverflow.com/questions/34998819/r-code-how-to-generate-variable-based-on-multiple-conditions-from-other-variabl
+        url: https://stackoverflow.com/questions/34998819/r-code-how-to-generate-variable-based-on-multiple-conditions-from-other-variabl
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
