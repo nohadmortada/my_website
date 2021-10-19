@@ -8,7 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: Welcome everyone to my Website
-    
+    image: germany.jpg
    
     title: Hello i am Nohad, an MFA student at London Business School.
   blog: {}
