@@ -62,7 +62,7 @@ params:
   navigation:
     button1:
       - name: My Resume
-        url: https://www.mergersandinquisitions.com/sales-trading/
+        url: file:///Users/nohadmessimortada/Desktop/IB%20Applications/CV%20NOHAD%20MORTADA.pdf
     button2:
       - name: Log in
         url: '#'
