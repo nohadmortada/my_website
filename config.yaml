@@ -7,10 +7,10 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: \#
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hello, my name is Nohad Mortada. I am Lebanese, and am currently an MFA student at London Business School.
+    subtitle: Welcome everyone to my Website
+    
+   
+    title: Hello i am Nohad, an MFA student at London Business School.
   blog: {}
   contact:
     address:
@@ -57,7 +57,7 @@ params:
       - icon: fa-linkedin
         label: LinkedIn
         url: www.linkedin.com/in/nohadmortada
-  image: ''
+  image: 'lbs.jpg'
   name: Your name
   navigation:
     button1:
