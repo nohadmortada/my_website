@@ -42,7 +42,7 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-    #  - icon: fa-twitter
+     #- icon: fa-twitter
      #   label: Twitter
       #  url: https://www.twitter.com
       - icon: fa-facebook
@@ -61,8 +61,8 @@ params:
   name: Nohad Mortada
   navigation:
     button1:
-      - name: My Resume
-        url: https://www.investopedia.com/articles/07/sharpe_ratio.asp
+      - name: Get Started
+        url:  blogs
     button2:
       - name: Log in
         url: '#'
@@ -81,10 +81,10 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
-        subtitle: Ipsum Dolor Sit Amet
+      - image: Washington.jpg
+        subtitle: R Analysis Examining House pricings in the State of Washington
         title: Individual Assignment
-        url: https://stackoverflow.com/questions/34998819/r-code-how-to-generate-variable-based-on-multiple-conditions-from-other-variabl
+        url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
