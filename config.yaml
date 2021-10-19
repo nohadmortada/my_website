@@ -82,16 +82,16 @@ params:
     enable: yes
     showcase:
       - image: Washington.jpg
-        subtitle: R Analysis Examining House pricings in the State of Washington
-        title: Individual Assignment
-        url: blogs/risk_return
+        subtitle: Analysing flat prices and what impacts them in Rome City
+        title: Group Project
+        url: blogs/group_project
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+        subtitle: Analysed People's drinking habits, Financial Stocks, Covid Vaccinations, and Opinion polls for the 2021 German elections
+        title: Data Analytics for Finance Homework 1
         url: blogs/homework1_website
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: Analysed Climate change and temperature anomalies, Global Warming and Political Views, and US Presidency
+        title: Data Analytics for Finance Homework 2
         url: blogs/homework2_website
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
