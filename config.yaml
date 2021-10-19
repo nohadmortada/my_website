@@ -82,8 +82,8 @@ params:
     enable: yes
     showcase:
       - image: Story.jpg 
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+        subtitle: Cool photo of myself and a short story
+        title: Nohad's life 
         url: blogs/ipsum
       - image: Story.jpg 
         subtitle: Ambitious student looking to break into investment banking 
