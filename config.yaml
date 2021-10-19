@@ -108,6 +108,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: Please find below my contact information. Don't hesitate to contact me or reach out visa social media!
-    /# title: 
-    /# url: blogs
+    subtitle: Please find below my contact information. Don't hesitate to contact me or reach out via social media!
+    title: !
+    url: blogs
