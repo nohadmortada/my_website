@@ -64,15 +64,15 @@ params:
       - name: Get Started
         url: blogs
     button2:
-      - name: Nohad's Resume
-        url: 'file:///Users/nohadmessimortada/Desktop/IB%20Applications/CV%20NOHAD%20MORTADA.pdf'
+      - name: Log in
+        url: '#'
     links:
       - name: menu
         url: '#'
       - name: Blogs
         url: blogs
-      - \# name: Generic Blog
-        \# url: blogs/ipsum
+      - name: Nohad's resume
+        url: file:///Users/nohadmessimortada/Desktop/IB%20Applications/CV%20NOHAD%20MORTADA.pdf
       - \# name: Elements
         \# url: elements.html
     menu: Menu
