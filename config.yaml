@@ -102,8 +102,8 @@ params:
         title: Consequat
         url: blogs/ipsum
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+        subtitle: Cool photo of myself and a short story
+        title: Nohad's life 
         url: blogs/ipsum
   two:
     buttonText: Get Started
