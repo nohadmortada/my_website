@@ -71,8 +71,8 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - \# name: Nohad's resume
-        \# url: file:///Users/nohadmessimortada/Desktop/IB%20Applications/CV%20NOHAD%20MORTADA.pdf
+      - name: Nohad's resume
+        url: https://docs.google.com/document/d/1FIFqwkcLYTmWnfe9ivVw-EdcOHuAreS0JPv398W78lg/edit?usp=sharing
       - \# name: Elements
         \# url: elements.html
     menu: Menu
