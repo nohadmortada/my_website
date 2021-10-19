@@ -82,14 +82,14 @@ params:
     enable: yes
     showcase:
       - image: Washington.jpg
-        subtitle: Analysing flat prices and what impacts them in Rome City
-        title: Group Project
-        url: blogs/group_project
-      - image: pic02.jpg
+        subtitle: Ambitious student looking to break into investment banking
+        title: My resume
+        url: blogs/CV
+      - image: germany.jpg
         subtitle: Analysed People's drinking habits, Financial Stocks, Covid Vaccinations, and Opinion polls for the 2021 German elections
         title: Data Analytics for Finance Homework 1
         url: blogs/homework1_website
-      - image: pic03.jpg
+      - image: Climatt.jpg
         subtitle: Analysed Climate change and temperature anomalies, Global Warming and Political Views, and US Presidency
         title: Data Analytics for Finance Homework 2
         url: blogs/homework2_website
