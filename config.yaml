@@ -8,7 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: Welcome everyone to my Website
-    image: germany.jpg
+    
    
     title: Hello i am Nohad, an MFA student at London Business School.
   blog: {}
@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: Washington.jpg
+      - image: Nohad.jpg
         subtitle: Ambitious student looking to break into investment banking
         title: My resume
         url: blogs/CV
