@@ -88,7 +88,7 @@ params:
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
-        url: https://docs.google.com/document/d/1FIFqwkcLYTmWnfe9ivVw-EdcOHuAreS0JPv398W78lg/edit?usp=sharing
+        url: blogs/homework1_website
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
