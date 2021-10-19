@@ -81,22 +81,22 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: Nohad.jpg
-        subtitle: Ambitious student looking to break into investment banking
-        title: My resume
-        url: blogs/CV
-      - image: germany.jpg
-        subtitle: Analysed People's drinking habits, Financial Stocks, Covid Vaccinations, and Opinion polls for the 2021 German elections
-        title: Data Analytics for Finance Homework 1
-        url: blogs/homework1_website
-      - image: Climatt.jpg
-        subtitle: Analysed Climate change and temperature anomalies, Global Warming and Political Views, and US Presidency
-        title: Data Analytics for Finance Homework 2
-        url: blogs/homework2_website
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+      - image: pic05.jpg
+        subtitle: Feugiat Amet Tempus
+        title: Etiam
         url: blogs/ipsum
+      - image: Nohad.jpg 
+        subtitle: Ambitious student looking to break into investment banking 
+        title: My resume 
+        url: blogs/CV 
+      - image: germany.jpg 
+        subtitle: Analysed People's drinking habits, Financial Stocks, Covid Vaccinations, and Opinion polls for the 2021 German elections 
+        title: Data Analytics for Finance Homework 1 
+        url: blogs/homework1_website 
+      - image: Climatt.jpg 
+        subtitle: Analysed Climate change and temperature anomalies
+        title:  Data Analytics for Finance Homework 2 
+        url: blogs/homework2_website 
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
