@@ -58,7 +58,7 @@ params:
         label: LinkedIn
         url: www.linkedin.com/in/nohadmortada
   image: 'lbs.jpg'
-  name: Your name
+  name: Nohad Mortada
   navigation:
     button1:
       - name: Get Started
