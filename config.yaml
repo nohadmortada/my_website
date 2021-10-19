@@ -92,7 +92,7 @@ params:
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
-        url: blogs/magna
+        url: blogs/homework2_website
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
