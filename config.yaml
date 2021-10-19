@@ -84,7 +84,7 @@ params:
       - image: lbs.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Individual Assignment
-        url: https://stackoverflow.com/questions/34998819/r-code-how-to-generate-variable-based-on-multiple-conditions-from-other-variabl
+        url: blogs/https://stackoverflow.com/questions/34998819/r-code-how-to-generate-variable-based-on-multiple-conditions-from-other-variabl
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
