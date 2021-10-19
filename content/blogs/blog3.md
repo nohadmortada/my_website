@@ -12,5 +12,4 @@ image: pic08.jpg
 keywords: ""
 slug: tempus
 title: Tempus
-
 ---
