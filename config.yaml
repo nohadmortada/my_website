@@ -109,5 +109,5 @@ params:
     buttonText: Get Started
     enable: yes
     subtitle: Please find below my contact information. Don't hesitate to contact me or reach out visa social media!
-    title: 
-    url: blogs
+    /# title: 
+    /# url: blogs
