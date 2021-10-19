@@ -62,7 +62,7 @@ params:
   navigation:
     button1:
       - name: My Resume
-        url: file:///Users/nohadmessimortada/Desktop/IB%20Applications/CV%20NOHAD%20MORTADA.pdf
+        url: https://www.investopedia.com/articles/07/sharpe_ratio.asp
     button2:
       - name: Log in
         url: '#'
