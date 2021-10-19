@@ -61,8 +61,8 @@ params:
   name: Nohad Mortada
   navigation:
     button1:
-      - name: Get Started
-        url: blogs
+      - name: My Resume
+        url: https://www.mergersandinquisitions.com/sales-trading/
     button2:
       - name: Log in
         url: '#'
@@ -71,8 +71,8 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Nohad's resume
-        url: file:///Users/nohadmessimortada/Desktop/IB%20Applications/CV%20NOHAD%20MORTADA.pdf
+      - \# name: Nohad's resume
+        \# url: file:///Users/nohadmessimortada/Desktop/IB%20Applications/CV%20NOHAD%20MORTADA.pdf
       - \# name: Elements
         \# url: elements.html
     menu: Menu
