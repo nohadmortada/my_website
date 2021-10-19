@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic05.jpg
+      - image: Story.jpg 
         subtitle: Feugiat Amet Tempus
         title: Etiam
         url: blogs/ipsum
