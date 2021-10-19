@@ -7,7 +7,7 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: Welcome everyone to my Website
+    subtitle: Welcome to my page, where you can find my short story, my resume, and a glimpse of my coding art!
     
    
     title: Hello i am Nohad, an MFA student at London Business School.
@@ -85,7 +85,7 @@ params:
         subtitle: Cool photo of myself and a short story
         title: Nohad's life 
         url: blogs/ipsum
-      - image: Story.jpg 
+      - image: Resume.jpg 
         subtitle: Ambitious student looking to break into investment banking 
         title: My resume 
         url: blogs/CV 
