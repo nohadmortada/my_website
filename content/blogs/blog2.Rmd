@@ -9,13 +9,16 @@ image: Byblos.jpg  # save picture in \static\img\blogs. Acceptable formats= jpg,
 
 keywords: ""
 slug: magna
-title: Magna
+title: Lebanon
 ---
 Did you know? Byblos, the Lebanese city shown above is one of the oldest continuously inhabited towns in the world. The name Byblos is Greek; papyrus received its early Greek name (byblos, byblinos) from its being exported to the Aegean through Byblos. Hence the English word Bible is derived from Byblos as “the (papyrus) book.”
 
 ```{r, echo= FALSE}
-knitr::include_graphics("/img/Tyson 2.jpg",error =FALSE)
+knitr::include_graphics("/img/thawra.jpg",error =FALSE)
 ```
+
+On the 17th of October 2019, a series of demonstrations started taking place in Lebanon, which were triggered by planned taxes on gasoline and Whatsapp, and quickly expanded into a country-wide condemnation of the ruling class, sectarian system, flawed financial practices, and unemployment. Since then, the Lebanese currency lost up to 90% of its value.
+
 
 ```{r, echo= FALSE}
 knitr::include_graphics("/img/Tyson 3.jpg",error =FALSE)
