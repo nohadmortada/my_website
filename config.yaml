@@ -94,16 +94,16 @@ params:
         title: Data Analytics for Finance Homework 1 
         url: blogs/homework1_website 
       - image: Climatt.jpg 
-        subtitle: Analysed Climate change and temperature anomalies
+        subtitle: Analysed Climate change and temperature anomalies, Global Warming and US Presidency
         title: Data Analytics for Finance Homework 2 
         url: blogs/homework2_website 
       - image: Tyson 1.jpg
         subtitle: Some Photos of my Pitbull
         title: Tyson the Dog
         url: blogs/Tyson
-      - image: pic06.jpg
-        subtitle: Cool photo of myself and a short story
-        title: Nohad's life 
+      - image: Leb.jpg
+        subtitle: A glimpse of my beautiful country in pain
+        title: Lebanon
         url: blogs/magna
   two:
     buttonText: Get Started
