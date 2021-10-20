@@ -12,7 +12,6 @@ slug: Tyson # slug is the shorthand URL address... no spaces plz
 title: Tyson the dog
 ---
 
-
 ```{r, echo= FALSE}
 knitr::include_graphics("/img/Tyson 2.jpg",error =FALSE)
 ```
