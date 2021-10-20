@@ -104,7 +104,7 @@ params:
       - image: pic06.jpg
         subtitle: Cool photo of myself and a short story
         title: Nohad's life 
-        url: blogs/ipsum
+        url: blogs/magna
   two:
     buttonText: Get Started
     enable: yes
