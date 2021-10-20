@@ -15,3 +15,15 @@ title: Tyson the dog
 ```{r, echo= FALSE}
 knitr::include_graphics("/img/Tyson 1.jpg",error =FALSE)
 ```
+
+```{r, echo= FALSE}
+knitr::include_graphics("/img/Tyson 2.jpg",error =FALSE)
+```
+
+```{r, echo= FALSE}
+knitr::include_graphics("/img/Tyson 3.jpg",error =FALSE)
+```
+
+```{r, echo= FALSE}
+knitr::include_graphics("/img/Tyson 4.jpg",error =FALSE)
+```
