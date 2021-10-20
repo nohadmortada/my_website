@@ -5,7 +5,7 @@ categories:
 date: "2021-09-30"
 description: He's nice by the way! # the title that will show up once someone gets to this page
 draft: false
-image: Tyson 1.jpg   # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: Tyson1.jpg  # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: Tyson # slug is the shorthand URL address... no spaces plz
