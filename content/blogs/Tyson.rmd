@@ -12,13 +12,13 @@ slug: Tyson # slug is the shorthand URL address... no spaces plz
 title: Tyson the dog
 ---
 
-Although he looks intimading, my dog is very sweet and kind. He barks a lot but when real danger arises, he the first to escape.
+Although he looks intimading, my dog is very sweet and kind. He barks a lot but when real danger arises, he's the first to escape.
 
 ```{r, echo= FALSE}
 knitr::include_graphics("/img/Tyson 2.jpg",error =FALSE)
 ```
 
-People think he's a pitbull. He's not. He's an American Staffordshire, the pitbull's cousin
+People think he's a Pitbull. He's not. He's an American Staffordshire, the Pitbull's cousin
 
 ```{r, echo= FALSE}
 knitr::include_graphics("/img/Tyson 3.jpg",error =FALSE)
